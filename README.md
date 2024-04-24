@@ -19,6 +19,28 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 
+USECASE DIAGRAM :
+![image](https://github.com/HycinthD/Lab-3-Railway-Reservation/assets/144870810/adf86557-3eee-4c48-8d21-c46af883f94e)
+
+CLASS DIAGRAM :
+
+![image](https://github.com/HycinthD/Lab-3-Railway-Reservation/assets/144870810/1155fe57-e139-4a11-97a6-eadff4ba8114)
+
+SEQUENCE DIAGRAM :
+
+![image](https://github.com/HycinthD/Lab-3-Railway-Reservation/assets/144870810/0d868989-1319-4876-81ce-dfab135aac42)
+
+COMMUNICATION DIAGRAM :
+
+![image](https://github.com/HycinthD/Lab-3-Railway-Reservation/assets/144870810/74493b88-4902-4b6d-9ca0-f0e2012de055)
+
+ACTIVITY DIAGRAM :
+
+![image](https://github.com/HycinthD/Lab-3-Railway-Reservation/assets/144870810/4dbc9603-81d6-4d4b-bef8-93fc27fe2211)
+
+PACKAGE DIAGRAM :
+
+![image](https://github.com/HycinthD/Lab-3-Railway-Reservation/assets/144870810/ec3090d6-73ac-477e-b96f-4f52252d9f58)
 
 
 ### RESULT:
